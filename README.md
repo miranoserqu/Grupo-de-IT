@@ -1,4 +1,4 @@
-# Grupo-de-IT
+# Las macetas cibernéticas (sujeto a cambios)
 
 Objetivos grupo de IT:
 - Entrar en la dark web y buscar leaks del gobierno y foros de hacking.
